@@ -11,3 +11,5 @@ Modelagem de dados para um e-commerce utilizando o MYSQL Workbench.
 # Modelagem
 
 [Modelagem](https://github.com/Raianne-Martins/Modelando-dados/blob/main/modelo_ecommerce1.png)
+
+![modelo_ecommerce1](https://github.com/user-attachments/assets/0638616d-ba30-4f78-a06d-8a8f50f0c567)
